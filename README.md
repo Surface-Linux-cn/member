@@ -15,4 +15,4 @@ issue 的模版:
 
 申请例子: [小磊 | Surface Book 2 15" 256GB | native Ubuntu 16.04 with CUDA](https://github.com/Surface-Linux-cn/member/issues/1)
 
-
+最后 点击 `watch` 按钮, 当有新成员加入时, 会获得通知
